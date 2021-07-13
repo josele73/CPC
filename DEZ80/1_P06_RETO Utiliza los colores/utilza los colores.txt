@@ -1,0 +1,16 @@
+Primer punto rojo
+
+Border 0
+3E 88 32 00 C0 18 FE  	88 --> 1000 1000 --> 11 rojo primer pixel
+
+Primer punto cyan
+
+3E 08 32 00 C0 18 FE  	08 --> 0000 1000 --> 01 cyan primer pixel
+
+Primer punto amarillo
+
+3E 80 32 00 C0 18 FE  	 80 --> 1000 0000 --> 10 amarillo primer pixel
+
+Primer punto azul oscuro
+
+3E 00 32 00 C0 18 FE 	00 --> 0000 0000 --> 00 azul oscuro primer pixel
